@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 2</title>
+</head>
+
+<body>
+    <h1>Instrucciones</h1>
+    <ol>
+        <li>Enchufar correctamente</li>
+        <li>Comprobar conexiones</li>
+        <li>Encender el aparato</li>
+    </ol>
+    <ul>
+        <li>Lenguajes de programación estructurada</li>
+        <ol>
+            <li>Lenguaje C</li>
+            <li>Lenguaje Pascal</li>
+            <li>Lenguaje Fortran</li>
+        </ol>
+        <li>Lenguaje de programación orientado a objetos</li>
+        <ol>
+            <li>Lenguaje Java</li>
+            <li>Lenguaje PHP</li>
+        </ol>
+    </ul>
+    <h1>Menú</h1>
+    <ul>
+        <li>Inicio</li>
+        <li>Noticias</li>
+        <li>Artículos</li>
+        <li>Contactos</li>
+        <li>Inicio</li>
+        <li>Sobre mí</li>
+        <li>Servicios</li>
+        <li>Testimonios</li>
+        <ul>
+            <li>Fontaneria</li>
+            <li>Electricidad</li>
+            <li>Pinturas</li>
+            <ul>
+                <li>Parkings</li>
+                <li>Trabajos en altura</li>
+                <li>Domicilios privados</li>
+            </ul>
+        </ul>
+        <li>Testimonios</li>
+        <li>Contacto</li>
+    </ul>
+</body>
+
+</htm>
